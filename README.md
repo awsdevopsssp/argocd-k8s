@@ -1,1 +1,3 @@
-# argocd-k8s
+# dev-app
+
+### Dev application
